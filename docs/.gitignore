@@ -1,0 +1,5 @@
+# docs 是知识库，只允许 markdown 文件
+*
+!.gitignore
+!*/
+!**/*.md
