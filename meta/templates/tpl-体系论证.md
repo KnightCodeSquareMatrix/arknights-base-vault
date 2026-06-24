@@ -1,7 +1,7 @@
 ---
 tags: [system, <facility>]
 system_id: <base_systems.json id>
-priority: <数字>
+
 operators: [<核心干员列表>]
 exclusive_with: [<互斥体系>]
 coexists_with: [<共存体系>]
